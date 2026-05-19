@@ -12,6 +12,7 @@ specifications, and guidelines that help people who see with only one eye
 | `manuals/`         | Plain-language, task-oriented guides               |
 | `specifications/`  | Standards and guidelines for builders              |
 | `modules/`         | Reusable, embeddable components                    |
+| `research/`        | Annotated research underpinning the project        |
 
 ## Start here
 
@@ -22,6 +23,8 @@ specifications, and guidelines that help people who see with only one eye
 - **[GLOSSARY.md](GLOSSARY.md)** — shared terminology.
 - **[Accessibility guidelines](specifications/accessibility-guidelines.md)**
   — how to build products that work with one eye.
+- **[Research](research/)** — the evidence base: an annotated literature
+  review with citations.
 
 This project shares practical aids and information. It does not provide
 medical advice and never replaces a clinician.

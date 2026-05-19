@@ -91,7 +91,9 @@ Reusable, embeddable components other projects can drop in.
 ## Guiding principles
 
 - **Evidence-based.** Cite optometry/ophthalmology sources; flag advice
-  that is anecdotal. This project does not replace medical guidance.
+  that is anecdotal. The shared evidence base lives in
+  [`research/`](research/). This project does not replace medical
+  guidance.
 - **Low barrier.** Prefer tools that need no install and run offline.
 - **Accessible by construction.** Everything here meets the accessibility
   guidelines we publish.
