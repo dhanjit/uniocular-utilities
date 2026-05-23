@@ -6,9 +6,12 @@ technology, with citations and links to the sources.
 
 ## Contents
 
-- **[literature-review.md](literature-review.md)** — annotated
-  bibliography organized by topic, with key findings and how each topic
-  informs the project's [roadmap](../ROADMAP.md).
+- **[literature-review.md](literature-review.md)** — a deep-dive annotated
+  bibliography across 15 topic areas (epidemiology, adaptation, depth cues,
+  stereopsis loss, driving, field loss, eye protection, eye strain, sports,
+  children, mental health, prosthetics, AR/AI assistive tech, and
+  standards), each with key findings, source links, and ties to the
+  project's [roadmap](../ROADMAP.md). Ends with a research-gaps section.
 
 ## Why this is here
 
