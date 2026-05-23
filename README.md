@@ -20,6 +20,7 @@ specifications, and guidelines that help people who see with only one eye
   the phased plan.
 - **[CONTRIBUTING.md](CONTRIBUTING.md)** — how to contribute and the
   principles every change follows.
+- **[CLAUDE.md](CLAUDE.md)** — directory structure and working conventions.
 - **[GLOSSARY.md](GLOSSARY.md)** — shared terminology.
 - **[Accessibility guidelines](specifications/accessibility-guidelines.md)**
   — how to build products that work with one eye.
