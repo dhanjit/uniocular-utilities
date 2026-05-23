@@ -12,6 +12,10 @@ technology, with citations and links to the sources.
   children, mental health, prosthetics, AR/AI assistive tech, and
   standards), each with key findings, source links, and ties to the
   project's [roadmap](../ROADMAP.md). Ends with a research-gaps section.
+- **[deep-research-synthesis.md](deep-research-synthesis.md)** — an
+  external AI-generated deep-research report (Gemini), reproduced for
+  transparency with a verification-status table. Treated as provisional;
+  only spot-verified findings are folded into the curated review above.
 
 ## Why this is here
 

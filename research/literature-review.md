@@ -10,6 +10,11 @@ curated review — read the primary sources before relying on a finding.
 Findings are summarized in good faith from abstracts and open-access text;
 figures are approximate unless quoted.
 
+A longer external AI-generated synthesis (with a proposed Uniocular
+Compatibility Standard and a task-difficulty matrix) is kept separately in
+[deep-research-synthesis.md](deep-research-synthesis.md); only its
+spot-verified findings have been folded into this review.
+
 ## Contents
 
 1. [Epidemiology and causes](#1-epidemiology-and-causes)
@@ -62,10 +67,11 @@ How people adjust after losing vision in one eye, and how rehabilitation
 helps.
 
 - **Adaptation is slower after sudden loss than gradual loss** (reported
-  ~8.8 vs. ~3.6 months). Main consequences are loss of depth perception
-  and restricted peripheral field.
-  - "Adaptation to monocular vision" — PubMed:
-    <https://pubmed.ncbi.nlm.nih.gov/12131596/>
+  ~8.8 vs. ~3.6 months). In a 65-patient retrospective survey, sequelae
+  included depth-perception difficulty, reading strain, and serious
+  psychosocial harm — yet ~91% received no formal rehabilitation.
+  - Kraut & Lopez-Fernandez, *International Ophthalmology Clinics*, 2002 —
+    PubMed: <https://pubmed.ncbi.nlm.nih.gov/12131596/>
   - "Vision Rehabilitation Team Management of Acquired Monocular Vision":
     <https://www.researchgate.net/publication/235522108>
 - **Structured rehabilitation programs exist** (e.g. the VA Acquired
@@ -197,9 +203,14 @@ hazards go undetected. Hemianopia research transfers usefully.
     <https://pmc.ncbi.nlm.nih.gov/articles/PMC7804568/>
 - **Prism-based optical aids expand blind-side awareness.** Peripheral
   prisms (e.g. Peli Lens) shift images from the blind region into the
-  seeing field (~30°+). Clinical trials of peripheral and multi-periscopic
-  prism glasses exist.
-  - Peli prism trial: <https://clinicaltrials.gov/study/NCT00494676>
+  seeing field. Peli's **multiplexing prism** superimposes a shifted view
+  to expand the field by ~20–43° (design-dependent) *without* an apical
+  scotoma, and is being trialled specifically for monocular vision.
+  - Peli, "Multiplexing Prisms for Field Expansion", *Optometry and Vision
+    Science*, 2017 — PMC: <https://pmc.ncbi.nlm.nih.gov/articles/PMC5542858/>
+  - Multiplexing-prism field-expansion trial for **monocular** vision:
+    <https://clinicaltrials.gov/study/NCT06027216>
+  - Peripheral prism trial: <https://clinicaltrials.gov/study/NCT00494676>
   - Multi-periscopic prism trial: <https://clinicaltrials.gov/study/NCT04827147>
 - **Electronic collision-warning devices** warn of mid/high obstacles a
   long cane would miss.
@@ -237,10 +248,19 @@ eye is irreplaceable, so injury prevention is paramount.
   risk sports.
   - AAO clinical statement, "Protective Eyewear for Young Athletes":
     <https://www.aao.org/education/clinical-statement/protective-eyewear-young-athletes>
-- **Compliance is a real problem.** In one study of functionally one-eyed
-  children, only ~35% wore safety glasses ≥90% of the day while ~34% rarely
-  or never did; barriers were discomfort, appearance, and lens-induced
-  vision reduction.
+- **Compliance is a real problem, and the barriers are psychosocial.** In a
+  132-patient anophthalmic study, prior glasses-wearers complied ~79.7% of
+  the time, while ~67.1% of prior non-wearers did not comply; reasons for
+  non-compliance were "lack of concern" (43%), aesthetics (26%), and feeling
+  it unnecessary because acuity was already sharp (17%). Compliance
+  correlated significantly with the number of clinical encounters —
+  repeated structured counseling is the main proven lever.
+  - Neimkin & Custer, *Ophthalmic Plastic & Reconstructive Surgery*, 2017 —
+    PMC: <https://pmc.ncbi.nlm.nih.gov/articles/PMC4980283/>
+- **Pediatric compliance is higher but still imperfect.** In one study of
+  functionally one-eyed children, only ~35% wore safety glasses ≥90% of the
+  day while ~34% rarely or never did; barriers were discomfort, appearance,
+  and lens-induced vision reduction.
   - "Protective eyewear in children with one eye vision loss" — PMC:
     <https://pmc.ncbi.nlm.nih.gov/articles/PMC12238169/>
   - Childhood Eye Cancer Trust guidance:
@@ -296,11 +316,15 @@ adaptation and protection.
     <https://artificialeyes.net/adjusting-to-eye-loss-mind-map/eye-loss-sports/>
   - AAO "Sports & Vision":
     <https://www.aao.org/museum/exhibition-detail/sports-vision>
-- **Compensation via monocular cues works but is less precise**, adding
-  cognitive load and potentially slowing reactions (see §4). Notable elite
-  athletes have adapted (e.g. cricketer Hanif Mohammad with a squint).
-  - Vision in elite cricketers/rugby-league players — PubMed:
-    <https://pubmed.ncbi.nlm.nih.gov/29127516/>
+- **Elite ball-sport performance does not require perfect stereo vision.**
+  A 59-athlete study (cricketers, rugby-league players) found ~27% had
+  sub-optimal habitual on-field vision (mostly uncorrected refractive
+  error); only elite cricketers exceeded stereoacuity norms. Compensation
+  likely leans on *looming* (retinal-image expansion) and relative size
+  more than stereopsis. Notable elite athletes have adapted (e.g. cricketer
+  Hanif Mohammad with a squint).
+  - Barrett et al., *Sports Medicine - Open*, 2017 (open access) — PMC:
+    <https://pmc.ncbi.nlm.nih.gov/articles/PMC5681452/>
 - **Protection is non-negotiable** for functionally one-eyed athletes (see
   §7).
 
