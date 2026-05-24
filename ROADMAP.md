@@ -17,6 +17,8 @@ address include:
   and hazards.
 - **Eye strain and fatigue** — the working eye does all the work.
 - **Daily tasks** — pouring, threading, parking, catching, stairs, doorways.
+- **Protecting the remaining eye** — the one working eye is irreplaceable.
+- **Emotional adjustment** — vision loss carries a real psychological toll.
 - **Software that assumes two eyes** — 3D/stereo UIs, depth-based gestures.
 
 ## Project pillars
@@ -42,18 +44,47 @@ Practical tools, runnable on common devices (phone, desktop, browser).
 
 Plain-language, task-oriented documentation.
 
-- Daily-living guides: pouring, cooking, stairs, crowds, doorways.
-- Driving with monocular vision: mirror setup, scanning habits, legality
-  notes by region.
-- Sports and hobbies: catching, cycling, swimming adaptations.
-- Returning to work and school: workspace setup, requesting adjustments.
+The flagship is **"How to live with one eye"** — an umbrella series that
+starts with the newly-monocular reader and branches into every part of
+life. Planned chapters:
+
+- **First 90 days** — adaptation timeline, what to expect, emotional
+  adjustment, and when to seek help.
+- **Protecting your remaining eye** — polycarbonate eyewear, when to wear
+  it, sport/activity protection. (High priority; see research §7.)
+- **Daily tasks** — pouring, cooking, stairs, crowds, doorways, threading.
+- **Driving** — mirror setup, scanning habits, the Pulfrich caveat,
+  regional legality notes.
+- **Screens and computing** — monitor setup, eye-strain management, the
+  20-20-20 rule.
+- **Sports and hobbies** — catching, cycling, swimming, protective gear.
+- **Work and school** — workspace setup, requesting adjustments,
+  accommodations for children.
+- **Smart glasses and AI** — how current AI wearables (and near-future
+  ones) can help with depth, distance, and the blind side, and their
+  limits for uniocular users specifically.
 
 ### 3. Specifications and guidelines (`/specifications`)
 
 Standards for builders so their products work for uniocular users.
 
-- **Accessible UI guidelines** — never require stereo vision, depth
-  gestures, or 3D-only cues; provide 2D fallbacks.
+The headline goal is a **Uniocular Compatibility Standard (UCS)** — a
+concise, testable, *certifiable* standard. If a product (software or
+hardware) meets it, anyone can be confident it works for uniocular people,
+and the maker can display a "uniocular-compatible" mark. Planned shape:
+
+- **Conformance levels** (e.g. A / AA) and **testable success criteria**,
+  modelled on WCAG's structure rather than a long advisory document
+  (research §14 notes that long guidelines see poor adoption).
+- **Self-certification checklist** a builder can run against a product.
+- **Scope across software, content, and hardware** — covering stereo/3D
+  fallbacks, depth-input alternatives, blind-side/field considerations,
+  contrast/text, and multi-channel feedback.
+- The existing **[accessible UI guidelines](../specifications/accessibility-guidelines.md)**
+  are the seed; UCS formalizes them into a certifiable standard.
+
+Supporting specifications:
+
 - **Content guidelines** — caption depth, avoid autostereoscopic-only media.
 - **Hardware notes** — recommendations for cameras, mounts, and wearables.
 
@@ -99,6 +130,24 @@ Reusable, embeddable components other projects can drop in.
   guidelines we publish.
 - **Respectful language.** "Uniocular/monocular vision"; describe people
   first, not deficits.
+
+## Future directions and ideas
+
+Captured from project discussion — not yet scheduled, but worth recording:
+
+- **"How to live with one eye" as the manuals centrepiece** — see pillar 2.
+  The intent is breadth: anything from driving and daily tasks to screens
+  and an AI-future chapter on smart glasses and AI assistants.
+- **A certifiable Uniocular Compatibility Standard** — see pillar 3. The
+  ambition is that "uniocular-compatible" becomes a claim a product can
+  make and a buyer can trust, the way WCAG conformance works for the web.
+- **Uniocular-specific AI/AR aids** — the research review (§13) finds that
+  almost all assistive tech targets low-vision/blind users; aids tuned to
+  uniocular needs (depth, distance, blind-side coverage, with good acuity)
+  are an open opportunity.
+- **Deepening the research base** — the [research/](research/) review is a
+  living document; topics with thin evidence are listed in its research-
+  gaps section.
 
 ## How to contribute
 
