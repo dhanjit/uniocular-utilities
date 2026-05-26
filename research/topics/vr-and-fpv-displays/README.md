@@ -53,6 +53,27 @@ uniocular-compatible.
     single-eye calibration may degrade or need the working eye selected. Not a
     hard blocker for most content, but eye-tracked titles can misbehave.
     (<https://www.dexerto.com/tech/what-is-foveated-rendering-on-psvr2-2069522/>)
+    Reported workarounds (provisional, forum-sourced, see synthesis note
+    below): skip automated IPD/eye calibration and set IPD manually by
+    sharpening text in the working eye; calibrate one eye at a time by closing
+    the other; or disable eye tracking entirely (PSVR2 then falls back to fixed
+    foveated rendering). The Quest Pro's gaze-averaging ("cyclopean") logic can
+    misbehave with a prosthetic or amblyopic eye, but eye tracking can be paused
+    or revoked per-app.
+
+### Physiology: VR sickness and the vergence–accommodation conflict
+
+- A clinical study found monocular viewing produced **lower** VR-sickness
+  scores than binocular viewing (dizziness and eye discomfort significantly
+  lower), not higher — see
+  [monocular-vr-sickness-2018](../../sources/monocular-vr-sickness-2018/). So a
+  uniocular user is **not at a sickness disadvantage** in VR.
+- Mechanistically, much VR sickness stems from the **vergence–accommodation
+  conflict** (eyes converge on a simulated near object while the lens stays
+  focused on the headset's fixed focal plane). A uniocular user has **no
+  vergence demand**, so they largely bypass this conflict — a genuine
+  physiological advantage (rationale carried from the project
+  [synthesis](../../deep-research-synthesis.md), Part B).
 
 ### Drone FPV goggles
 
@@ -72,6 +93,24 @@ uniocular-compatible.
 - Some one-eyed pilots report discomfort seeing two screens; **covering the
   unused side** or tuning IPD resolves it.
   (<https://fpvdronepilots.com/threads/fpv-goggles-uncomfortable-seeing-2-individual-displays-skyzone-04x.4318/>)
+- **True stereoscopic 3D FPV** (dual-lens 3D camera → two offset feeds, e.g.
+  the discontinued Skyzone 3D goggles) did once exist and *would* disadvantage
+  a uniocular pilot — but that market collapsed (cost, drone weight, no way to
+  share 3D on 2D platforms) and is effectively extinct, so it is moot for
+  today's pilots. (provisional, from the synthesis note below)
+
+### Regulatory angle: a single-eye HUD can aid line-of-sight compliance
+
+- Under **FAA Part 107.31**, the remote pilot must keep the aircraft in
+  **visual line of sight with vision unaided by any device other than
+  corrective lenses** — enclosed FPV/box goggles do not satisfy this unless a
+  separate visual observer is present.
+  (<https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.31>)
+- A **monocular FPV display** (a single micro-display/HUD over one eye, the
+  other eye left unobstructed) lets a solo pilot watch the onboard feed *and*
+  keep the physical aircraft in unaided line of sight with the other eye —
+  useful for uniocular *and* binocular pilots, though it imposes a
+  split-attention cognitive load.
 
 ## Implications for the project
 
@@ -101,8 +140,28 @@ uniocular-compatible.
 
 ## Verification status
 
-**From search digest.** Drawn from vendor/support docs, community forums, and
-general explainers, not peer-reviewed studies. The monoscopic nature of FPV
-feeds and Apple Vision Pro's single-eye setting are well-corroborated; the
-finer hardware details should be confirmed against current manufacturer
-manuals before being relied on.
+**Mixed.** This note draws on (a) direct web sources — vendor/support docs,
+community forums, general explainers — and (b) an external **Gemini Deep
+Research** report commissioned for this project (the same kind of provisional
+synthesis as the project-wide
+[deep-research-synthesis.md](../../deep-research-synthesis.md); treat its
+unverified detail as provisional).
+
+Spot-verified against primary sources:
+
+- **Monocular VR sickness is not worse than binocular** — verified; the IOVS
+  study is real and figures match, see
+  [monocular-vr-sickness-2018](../../sources/monocular-vr-sickness-2018/)
+  (conference abstract).
+- **FAA Part 107.31** unaided-VLOS requirement — verified against the eCFR
+  text.
+- **Apple Vision Pro single-eye Eye Input** setting — verified against Apple
+  Support.
+
+Still provisional (reproduced as reported / forum-sourced): the PSVR2/Quest
+eye-tracking workarounds, OpenXR-Toolkit single-eye render culling, specific
+monocular-HUD product specs, and the "3D FPV is extinct" market claim. The
+Gemini report mis-attributed several citations (its footnotes pointed to a
+single explainer page); the underlying facts above were re-checked
+independently. Confirm finer hardware details against current manufacturer
+manuals before relying on them.

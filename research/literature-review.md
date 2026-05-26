@@ -53,7 +53,9 @@ fatigue of the single working eye; and protecting the one irreplaceable eye.
 - **Motion parallax** (head movement) is the most powerful recoverable depth
   cue and is trainable in principle.
 - **2D screens largely neutralize** the stereopsis disadvantage — a key
-  design lever and standard principle.
+  design lever and standard principle. The same holds for **immersive
+  displays**: FPV drone goggles are monoscopic by design, and monocular VR use
+  is not worse for sickness (it bypasses the vergence–accommodation conflict).
 - **Protecting the remaining eye** is the highest-impact safety message, and
   the barrier to compliance is behavioral, not informational.
 - **Assistive tech is biased to low-vision/blind users**; uniocular-specific
@@ -69,7 +71,7 @@ Strong papers with their own notes (see `sources/`):
 - [ono-ujike-2005-motion-parallax](sources/ono-ujike-2005-motion-parallax/) · [motion-parallax-pursuit-2014](sources/motion-parallax-pursuit-2014/) · [pulfrich-monovision-2013](sources/pulfrich-monovision-2013/)
 - [stereopsis-surgical-performance-2017](sources/stereopsis-surgical-performance-2017/) · [stereopsis-2d-3d-2014](sources/stereopsis-2d-3d-2014/)
 - [racing-drivers-2019](sources/racing-drivers-2019/) · [driving-hemianopia-vii-2021](sources/driving-hemianopia-vii-2021/)
-- [peli-2017-multiplexing-prism](sources/peli-2017-multiplexing-prism/) · [ar-depth-mapping-2019](sources/ar-depth-mapping-2019/)
+- [peli-2017-multiplexing-prism](sources/peli-2017-multiplexing-prism/) · [ar-depth-mapping-2019](sources/ar-depth-mapping-2019/) · [monocular-vr-sickness-2018](sources/monocular-vr-sickness-2018/)
 - [neimkin-custer-2017-eyewear-compliance](sources/neimkin-custer-2017-eyewear-compliance/)
 - [asthenopia-meta-analysis-2026](sources/asthenopia-meta-analysis-2026/)
 - [barrett-2017-elite-athletes](sources/barrett-2017-elite-athletes/)
