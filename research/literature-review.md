@@ -43,6 +43,7 @@ fatigue of the single working eye; and protecting the one irreplaceable eye.
 | [psychological-impact](topics/psychological-impact/) | Mental-health adjustment |
 | [prosthetics-and-rehabilitation](topics/prosthetics-and-rehabilitation/) | Ocular prosthesis, rehab programs |
 | [assistive-technology](topics/assistive-technology/) | AR, smart glasses, AI |
+| [vr-and-fpv-displays](topics/vr-and-fpv-displays/) | VR headsets and drone FPV goggles for uniocular users |
 | [accessibility-standards](topics/accessibility-standards/) | Frameworks for a compatibility standard |
 
 ## Cross-cutting takeaways
