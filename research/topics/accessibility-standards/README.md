@@ -32,6 +32,9 @@ but no stereopsis. No certification for "uniocular-compatible" exists.
 - A concrete UCS Level A/AA/AAA draft already exists in the
   [deep-research synthesis](../../deep-research-synthesis.md) — the starting
   point when we move from research to the standard.
+- A first device-class profile has been drafted: the
+  [VR/FPV uniocular compatibility profile](../../../specifications/vr-fpv-uniocular-compatibility.md),
+  grounded in the [VR/FPV research](../vr-and-fpv-displays/).
 
 ## Open questions
 

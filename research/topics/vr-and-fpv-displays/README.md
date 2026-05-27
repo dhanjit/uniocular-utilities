@@ -4,6 +4,14 @@ Whether near-eye displays — VR/mixed-reality headsets and first-person-view
 (FPV) drone goggles — work for uniocular users, and what makes a headset
 uniocular-compatible.
 
+> **Last reviewed: 2026-05.** VR/FPV hardware and platform software move
+> quickly; device-specific details (models, IPD ranges, eye-tracking
+> behavior, OS accessibility settings) date fast. Re-verify against current
+> manufacturer documentation before relying on a specific figure, and bump
+> this date when the note is revisited. The general findings (monocular cues
+> carry depth; FPV feeds are monoscopic; vergence conflict is bypassed) are
+> durable; the product specifics are not.
+
 ## Summary
 
 - **VR/MR headsets** (Oculus Rift, Meta Quest, PlayStation VR/VR2, Apple
