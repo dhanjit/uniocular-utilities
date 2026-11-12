@@ -22,6 +22,18 @@ the topics that cite it.
 | [peli-2017-multiplexing-prism](peli-2017-multiplexing-prism/) | Field of view / AT |
 | [ar-depth-mapping-2019](ar-depth-mapping-2019/) | Assistive technology |
 | [neimkin-custer-2017-eyewear-compliance](neimkin-custer-2017-eyewear-compliance/) | Eye protection |
+| [boss-2015-monocular-precautions](boss-2015-monocular-precautions/) | Eye protection / lens materials |
+| [aao-refractive-errors-ppp-2022](aao-refractive-errors-ppp-2022/) | Lens materials / eye protection (guideline) |
+| [aao-amblyopia-ppp-2022](aao-amblyopia-ppp-2022/) | Lens materials / children (guideline) |
+| [vinger-1997-lens-impact](vinger-1997-lens-impact/) | Lens materials and impact |
+| [vinger-woods-2000-rx-safety-eyewear](vinger-woods-2000-rx-safety-eyewear/) | Lens materials and impact (thickness, frames) |
+| [rychwalski-2003-airgun-impact](rychwalski-2003-airgun-impact/) | Lens materials and impact |
+| [chou-hovis-2003-cr39-coatings](chou-hovis-2003-cr39-coatings/) | Lens materials and impact (coatings) |
+| [chou-2005-pc-needle-penetration](chou-2005-pc-needle-penetration/) | Lens materials and impact (thickness, coatings) |
+| [chou-hovis-2006-phoenix-ar](chou-hovis-2006-phoenix-ar/) | Lens materials and impact (Trivex, coatings) |
+| [chou-2011-coatings-impact](chou-2011-coatings-impact/) | Lens materials and impact (coatings, thickness) |
+| [chou-2015-uv-ageing-impact](chou-2015-uv-ageing-impact/) | Lens materials and impact (ageing) |
+| [hoskin-2015-lens-impact](hoskin-2015-lens-impact/) | Lens materials and impact (review, standards) |
 | [asthenopia-meta-analysis-2026](asthenopia-meta-analysis-2026/) | Eye strain / ergonomics |
 | [barrett-2017-elite-athletes](barrett-2017-elite-athletes/) | Sports / stereopsis impact |
 | [amblyopia-whole-child-2023](amblyopia-whole-child-2023/) | Children / epidemiology |

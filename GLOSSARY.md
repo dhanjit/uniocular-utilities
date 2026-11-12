@@ -39,6 +39,37 @@ sometimes called "lazy eye".
 
 **Diplopia** — double vision.
 
+## Lens terms
+
+**Polycarbonate** — a tough thermoplastic lens material (refractive index
+about 1.59). The material the AAO names for people with one good eye.
+
+**Trivex** — a urethane-based lens material from PPG (index about 1.53),
+sold under brand names such as Hoya Phoenix. Light and impact resistant,
+with less color fringing than polycarbonate.
+
+**CR-39** — the standard low-cost plastic lens material (index about 1.50).
+Good optics but brittle compared with polycarbonate or Trivex.
+
+**High-index lens** — a lens made of a material with a higher refractive
+index (commonly 1.60, 1.67 or 1.74) so it can be thinner at the same power.
+Higher index does not mean stronger.
+
+**Center thickness (centre thickness, CT)** — the thickness of a lens at its
+optical center. For a minus (short-sight) lens this is the thinnest point,
+and the figure that matters most for impact resistance.
+
+**Abbe value** — a number describing how much a lens material spreads light
+into colors. Higher is better: about 58 for CR-39, 45 for Trivex, 30 for
+polycarbonate.
+
+**Lateral color (transverse chromatic aberration)** — color fringes seen when
+looking through a lens away from its optical center. Grows with lens power
+and distance from the center, and shrinks with a higher Abbe value.
+
+**Prentice's rule** — prism (in prism dioptres) = distance from the optical
+center (cm) × lens power (dioptres).
+
 ## Project terms
 
 **Pillar** — one of the four categories of deliverable: software
