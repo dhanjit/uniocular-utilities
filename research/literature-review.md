@@ -37,6 +37,7 @@ fatigue of the single working eye; and protecting the one irreplaceable eye.
 | [driving](topics/driving/) | Safety evidence and adaptation |
 | [field-of-view-and-blind-side](topics/field-of-view-and-blind-side/) | Scanning, prisms, electronic aids |
 | [eye-protection](topics/eye-protection/) | Protecting the remaining eye; compliance |
+| [lens-materials-and-impact](topics/lens-materials-and-impact/) | Lens material, index, thickness and coatings for the one seeing eye |
 | [eye-strain-and-ergonomics](topics/eye-strain-and-ergonomics/) | Asthenopia, screen setup |
 | [sports](topics/sports/) | Performance and protection |
 | [children-and-amblyopia](topics/children-and-amblyopia/) | Pediatric impact and accommodations |
@@ -58,6 +59,10 @@ fatigue of the single working eye; and protecting the one irreplaceable eye.
   is not worse for sickness (it bypasses the vergence–accommodation conflict).
 - **Protecting the remaining eye** is the highest-impact safety message, and
   the barrier to compliance is behavioral, not informational.
+- **For lenses, material and center thickness decide protection, not
+  index.** Polycarbonate (or Trivex) at about 2 mm center thickness; the FDA
+  test (~0.2 J, no thickness rule) says little, and high-index lenses buy
+  under 1 mm of edge at moderate powers while giving up impact resistance.
 - **Assistive tech is biased to low-vision/blind users**; uniocular-specific
   aids (depth, distance, blind side) are an open opportunity.
 - **No standard certifies "uniocular-compatible"** — a gap the project's
@@ -72,7 +77,10 @@ Strong papers with their own notes (see `sources/`):
 - [stereopsis-surgical-performance-2017](sources/stereopsis-surgical-performance-2017/) · [stereopsis-2d-3d-2014](sources/stereopsis-2d-3d-2014/)
 - [racing-drivers-2019](sources/racing-drivers-2019/) · [driving-hemianopia-vii-2021](sources/driving-hemianopia-vii-2021/)
 - [peli-2017-multiplexing-prism](sources/peli-2017-multiplexing-prism/) · [ar-depth-mapping-2019](sources/ar-depth-mapping-2019/) · [monocular-vr-sickness-2018](sources/monocular-vr-sickness-2018/)
-- [neimkin-custer-2017-eyewear-compliance](sources/neimkin-custer-2017-eyewear-compliance/)
+- [neimkin-custer-2017-eyewear-compliance](sources/neimkin-custer-2017-eyewear-compliance/) · [boss-2015-monocular-precautions](sources/boss-2015-monocular-precautions/)
+- [aao-refractive-errors-ppp-2022](sources/aao-refractive-errors-ppp-2022/) · [aao-amblyopia-ppp-2022](sources/aao-amblyopia-ppp-2022/)
+- [vinger-1997-lens-impact](sources/vinger-1997-lens-impact/) · [vinger-woods-2000-rx-safety-eyewear](sources/vinger-woods-2000-rx-safety-eyewear/) · [rychwalski-2003-airgun-impact](sources/rychwalski-2003-airgun-impact/) · [hoskin-2015-lens-impact](sources/hoskin-2015-lens-impact/)
+- [chou-hovis-2003-cr39-coatings](sources/chou-hovis-2003-cr39-coatings/) · [chou-2005-pc-needle-penetration](sources/chou-2005-pc-needle-penetration/) · [chou-hovis-2006-phoenix-ar](sources/chou-hovis-2006-phoenix-ar/) · [chou-2011-coatings-impact](sources/chou-2011-coatings-impact/) · [chou-2015-uv-ageing-impact](sources/chou-2015-uv-ageing-impact/)
 - [asthenopia-meta-analysis-2026](sources/asthenopia-meta-analysis-2026/)
 - [barrett-2017-elite-athletes](sources/barrett-2017-elite-athletes/)
 - [amblyopia-whole-child-2023](sources/amblyopia-whole-child-2023/) · [kelly-2025-amblyopia-hrqol](sources/kelly-2025-amblyopia-hrqol/)
@@ -86,5 +94,7 @@ Strong papers with their own notes (see `sources/`):
 3. Biometric models of single-eye screen/accommodation fatigue.
 4. Quantified daily-living task data (pouring, stairs, thresholds).
 5. Protective-eyewear compliance interventions for adults.
+   Also: no independent impact test of named high-index materials (MR-8,
+   MR-7/10, MR-174), and no adult-specific minimum lens thickness.
 6. A conformance methodology certifying uniocular compatibility.
 7. A clean global prevalence estimate of functional uniocularity.
